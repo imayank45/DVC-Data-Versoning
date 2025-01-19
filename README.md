@@ -24,11 +24,15 @@ Track your dataset "dvc add data/"
 
 Note:
 To stop tracking from Git:
+
 git rm -r --cached 'data'
+
 git commit -m "stop tracking data"
 
 Now track again the dataset with "dvc add data/"
+
 To track changes with git "git add .gitignore data.dvc"
+
 To enable auto staging run "dvc config core.autostage true"
 
 ## Step8:
