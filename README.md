@@ -42,3 +42,12 @@ Try to make changes to my_code.py to append new row in the data, check changes v
 
 ## Step11:
 Again commit and push with "dvc commit" and "dvc push"
+
+## Step12:
+Do git add, commit and push to mark this stage as second version of data.
+
+## Step13:
+Check dvc/git status, everything should be up to date
+
+## Step14:
+Now repeat steps 10-12 to this stage as third version of data
