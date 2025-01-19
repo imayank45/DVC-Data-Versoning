@@ -33,3 +33,12 @@ To enable auto staging run "dvc config core.autostage true"
 
 ## Step8:
 Commit and push with "dvc commit" and "dvc push"
+
+## Step9:
+Do git add, commit and push to mark this stage as first version of data.
+
+## Step10:
+Try to make changes to my_code.py to append new row in the data, check changes via "dvc status"
+
+## Step11:
+Again commit and push with "dvc commit" and "dvc push"
